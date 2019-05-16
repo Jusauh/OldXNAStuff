@@ -1,0 +1,211 @@
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+E:\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+E:\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+E:\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.xnb
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.wma
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.wma
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.csprojResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.wma
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\bg.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\test.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\crosshairs.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shredder.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe itse.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Ippe käsi.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Shread.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\biologyTest.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\sweepHand.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar overlay.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Hp bar.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit1.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\hit2.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\shred.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop1.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\swoop2.xnb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\testsong.wma
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Turuponpon.wma
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\Content\Liikaa ES.wma
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.pdb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.csprojResolveAssemblyReference.cache
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.csproj.CoreCompileInputs.cache
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.pdb
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.exe.manifest
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\bin\x86\Debug\IppeBeli.application
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.exe.manifest
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeli\obj\x86\Debug\IppeBeli.application

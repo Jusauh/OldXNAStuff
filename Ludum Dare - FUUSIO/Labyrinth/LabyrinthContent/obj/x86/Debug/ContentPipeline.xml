@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile.png</Source>
+      <Name>Tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>henchman1b.png</Source>
+      <Name>henchman1b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pelaaja1c.png</Source>
+      <Name>pelaaja1c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pelaaja1d.png</Source>
+      <Name>pelaaja1d</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pelaaja_jalat.png</Source>
+      <Name>pelaaja_jalat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Light.png</Source>
+      <Name>Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pyssy2.png</Source>
+      <Name>pyssy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelOneMap.png</Source>
+      <Name>LevelOneMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelThreeMap.png</Source>
+      <Name>LevelThreeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScreen7.png</Source>
+      <Name>StartScreen7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss.png</Source>
+      <Name>Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelTwoMap.png</Source>
+      <Name>LevelTwoMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pomo1c.png</Source>
+      <Name>pomo1c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pomo1c.xnb</Output>
+      <Time>2013-12-17T10:07:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Creepypasta luolajukka.mp3</Source>
+      <Name>Creepypasta luolajukka</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Creepypasta luolajukka.xnb</Output>
+      <Extra>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Creepypasta luolajukka.wma</Extra>
+      <Time>2013-12-17T23:40:08+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\LabyrinthContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\LabyrinthContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-15T19:44:37.0317487+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

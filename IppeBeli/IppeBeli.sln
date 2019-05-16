@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IppeBeli", "IppeBeli\IppeBeli\IppeBeli.csproj", "{00A9A77B-35CE-4E88-A629-24D4F3B4FFFF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "IppeBeliContent", "IppeBeli\IppeBeliContent\IppeBeliContent.contentproj", "{D5409070-B71B-4428-AAB9-DEB9B05959F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A9A77B-35CE-4E88-A629-24D4F3B4FFFF}.Debug|x86.ActiveCfg = Debug|x86
+		{00A9A77B-35CE-4E88-A629-24D4F3B4FFFF}.Debug|x86.Build.0 = Debug|x86
+		{00A9A77B-35CE-4E88-A629-24D4F3B4FFFF}.Release|x86.ActiveCfg = Release|x86
+		{00A9A77B-35CE-4E88-A629-24D4F3B4FFFF}.Release|x86.Build.0 = Release|x86
+		{D5409070-B71B-4428-AAB9-DEB9B05959F9}.Debug|x86.ActiveCfg = Debug|x86
+		{D5409070-B71B-4428-AAB9-DEB9B05959F9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

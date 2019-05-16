@@ -1,0 +1,135 @@
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippepää.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukkapää.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\The menu.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\time_machine_wall.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fx01.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shield.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.wma
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.wma
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\wheel_of_time.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.wma
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bar.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hell.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ippe_won.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\jukka_won.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Earth.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.wma
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe1final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe2final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe3final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe4final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe5final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka1final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka2final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka3final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka4final.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka5final.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\LightBeam.xnb
+C:\Users\Jusa\documents\visual studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ballo.xnb
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippepää.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukkapää.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\The menu.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hud.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\time_machine_wall.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fx01.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shield.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\wheel_of_time.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bar.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hell.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ippe_won.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\jukka_won.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Earth.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\LightBeam.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ballo.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe1final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe2final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe3final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe4final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe5final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka1final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka2final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka3final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka4final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka5final.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.wma
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippepää.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukkapää.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\The menu.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hud.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\time_machine_wall.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fx01.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shield.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\wheel_of_time.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bar.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hell.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ippe_won.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\jukka_won.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Earth.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\LightBeam.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ballo.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe1final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe2final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe3final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe4final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe5final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka1final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka2final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka3final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka4final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka5final.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.wma
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.wma
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.wma
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.wma
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe.manifest
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.application
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe.manifest
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.application
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

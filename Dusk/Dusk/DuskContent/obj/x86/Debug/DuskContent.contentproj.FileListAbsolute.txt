@@ -1,0 +1,8 @@
+C:\Users\Jusa\Desktop\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+F:\Kouluhommia\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+C:\Users\kat13sjussil\Desktop\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+I:\Kouluhommia\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jusa\Downloads\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+E:\Backup\Jusa\Downloads\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+D:\Backup\Jusa\Downloads\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentprojResolveAssemblyReference.cache
+D:\Backup\Jusa\Downloads\Dusk\Dusk\DuskContent\obj\x86\Debug\DuskContent.contentproj.CoreCompileInputs.cache

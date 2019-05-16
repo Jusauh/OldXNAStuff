@@ -1,0 +1,3 @@
+C:\Users\Jusa\Documents\Visual Studio 2010\Projects\Jukka VS Ippe\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

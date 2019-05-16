@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ippepää.png</Source>
+      <Name>Ippepää</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippepää.xnb</Output>
+      <Time>2012-01-28T22:55:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukkapää.png</Source>
+      <Name>Jukkapää</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukkapää.xnb</Output>
+      <Time>2012-01-28T22:55:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>The menu.png</Source>
+      <Name>The menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\The menu.xnb</Output>
+      <Time>2012-05-12T22:18:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud.png</Source>
+      <Name>Hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hud.xnb</Output>
+      <Time>2012-05-01T03:08:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>time_machine_wall.jpg</Source>
+      <Name>time_machine_wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\time_machine_wall.xnb</Output>
+      <Time>2012-03-27T20:57:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2012-03-27T23:11:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>fx01.png</Source>
+      <Name>fx01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fx01.xnb</Output>
+      <Time>2012-03-27T23:11:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shield.png</Source>
+      <Name>shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shield.xnb</Output>
+      <Time>2012-03-27T23:11:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>wheel_of_time.png</Source>
+      <Name>wheel_of_time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\wheel_of_time.xnb</Output>
+      <Time>2012-03-28T23:18:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bar.png</Source>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bar.xnb</Output>
+      <Time>2012-03-28T23:48:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hell.png</Source>
+      <Name>hell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hell.xnb</Output>
+      <Time>2012-03-29T18:13:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ippe_won.png</Source>
+      <Name>ippe_won</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ippe_won.xnb</Output>
+      <Time>2012-03-29T21:12:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>jukka_won.png</Source>
+      <Name>jukka_won</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\jukka_won.xnb</Output>
+      <Time>2012-03-29T21:12:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Earth.png</Source>
+      <Name>Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Earth.xnb</Output>
+      <Time>2012-05-12T21:12:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LightBeam.png</Source>
+      <Name>LightBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\LightBeam.xnb</Output>
+      <Time>2012-12-20T00:22:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ballo.png</Source>
+      <Name>ballo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ballo.xnb</Output>
+      <Time>2012-12-20T00:19:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hyvin Kesken Oleva Battle Music.mp3</Source>
+      <Name>Hyvin Kesken Oleva Battle Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.xnb</Output>
+      <Extra>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hyvin Kesken Oleva Battle Music.wma</Extra>
+      <Time>2012-03-27T22:56:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Victory Music.mp3</Source>
+      <Name>Victory Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.xnb</Output>
+      <Extra>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Victory Music.wma</Extra>
+      <Time>2012-03-27T22:56:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Grave of our ippes.mp3</Source>
+      <Name>Grave of our ippes</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.xnb</Output>
+      <Extra>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Grave of our ippes.wma</Extra>
+      <Time>2012-03-28T23:26:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Battle Music.mp3</Source>
+      <Name>Battle Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.xnb</Output>
+      <Extra>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battle Music.wma</Extra>
+      <Time>2012-05-18T01:57:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Ippe1final.mp3</Source>
+      <Name>Ippe1final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe1final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ippe2final.mp3</Source>
+      <Name>Ippe2final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe2final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ippe3final.mp3</Source>
+      <Name>Ippe3final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe3final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ippe4final.mp3</Source>
+      <Name>Ippe4final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe4final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ippe5final.mp3</Source>
+      <Name>Ippe5final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Ippe5final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukka1final.mp3</Source>
+      <Name>Jukka1final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka1final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukka2final.mp3</Source>
+      <Name>Jukka2final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka2final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukka3final.mp3</Source>
+      <Name>Jukka3final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka3final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukka4final.mp3</Source>
+      <Name>Jukka4final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka4final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Jukka5final.mp3</Source>
+      <Name>Jukka5final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Jukka5final.xnb</Output>
+      <Time>2012-12-19T22:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-05-12T22:48:18+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DBE36855-CFA1-4C71-A231-1AD5F05EEA6E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>I:\Esiteltävät työt\Jukka VS Ippe\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-12T12:24:42.211614+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

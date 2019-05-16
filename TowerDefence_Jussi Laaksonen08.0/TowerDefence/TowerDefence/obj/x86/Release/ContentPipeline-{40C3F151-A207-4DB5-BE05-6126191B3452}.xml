@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Music\01 - Strange Numbers.mp3</Source>
+      <Name>Music\01 - Strange Numbers</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\01 - Strange Numbers.xnb</Output>
+      <Extra>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\01 - Strange Numbers.wma</Extra>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\02 - Mischief.mp3</Source>
+      <Name>Music\02 - Mischief</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\02 - Mischief.xnb</Output>
+      <Extra>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\02 - Mischief.wma</Extra>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\04 - Gone.mp3</Source>
+      <Name>Music\04 - Gone</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\04 - Gone.xnb</Output>
+      <Extra>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\04 - Gone.wma</Extra>
+      <Time>2013-12-13T19:56:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\03 - H.A.M.mp3</Source>
+      <Name>Music\03 - H.A.M</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\03 - H.A.M.xnb</Output>
+      <Extra>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\03 - H.A.M.wma</Extra>
+      <Time>2013-12-17T19:00:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Cursor.png</Source>
+      <Name>UI\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\Cursor.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\gridCursor.png</Source>
+      <Name>UI\gridCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\gridCursor.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\mapBeta.png</Source>
+      <Name>Maps\mapBeta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\mapBeta.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UberHud.png</Source>
+      <Name>UI\UberHud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\UberHud.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\velhoLvl1.png</Source>
+      <Name>Towers\velhoLvl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\velhoLvl1.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\rangeIndicator.png</Source>
+      <Name>UI\rangeIndicator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\rangeIndicator.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FX\lightning.png</Source>
+      <Name>FX\lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\lightning.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\level 1 mockup.png</Source>
+      <Name>Maps\level 1 mockup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level 1 mockup.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FX\fireBall.png</Source>
+      <Name>FX\fireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\fireBall.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\level1.png</Source>
+      <Name>Maps\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level1.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\level2.png</Source>
+      <Name>Maps\level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level2.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\velhofinal.png</Source>
+      <Name>Towers\velhofinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\velhofinal.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblinmockup.png</Source>
+      <Name>Enemies\goblinmockup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\goblinmockup.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\BackButton.png</Source>
+      <Name>Buttons\BackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\BackButton.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\ExitButton.png</Source>
+      <Name>Buttons\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\ExitButton.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MenuButton.png</Source>
+      <Name>Buttons\MenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\MenuButton.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Minus.png</Source>
+      <Name>Buttons\Minus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\Minus.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\OptionsButton.png</Source>
+      <Name>Buttons\OptionsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\OptionsButton.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\PlayButton.png</Source>
+      <Name>Buttons\PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\PlayButton.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SoundOff.png</Source>
+      <Name>Buttons\SoundOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\SoundOff.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SoundOn.png</Source>
+      <Name>Buttons\SoundOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\SoundOn.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MasterVolume.png</Source>
+      <Name>MasterVolume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\MasterVolume.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MusicVolume.png</Source>
+      <Name>MusicVolume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\MusicVolume.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFXVolume.png</Source>
+      <Name>SFXVolume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFXVolume.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Slider.png</Source>
+      <Name>Slider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Slider.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FX\Particle_animation3.png</Source>
+      <Name>FX\Particle_animation3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\Particle_animation3.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\orc.png</Source>
+      <Name>Enemies\orc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\orc.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\archerfinal.png</Source>
+      <Name>Towers\archerfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\archerfinal.xnb</Output>
+      <Time>2013-12-13T19:48:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\knightfinal.png</Source>
+      <Name>Towers\knightfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\knightfinal.xnb</Output>
+      <Time>2013-12-13T19:48:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\UpgradeButton.png</Source>
+      <Name>Buttons\UpgradeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\UpgradeButton.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\theBoss.png</Source>
+      <Name>Enemies\theBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\theBoss.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FX\Particle_animation.png</Source>
+      <Name>FX\Particle_animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\Particle_animation.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\menu.png</Source>
+      <Name>UI\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\menu.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\hud.png</Source>
+      <Name>UI\hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\hud.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\ResumeButton.png</Source>
+      <Name>Buttons\ResumeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\ResumeButton.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\NextWaveButton.png</Source>
+      <Name>Buttons\NextWaveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\NextWaveButton.xnb</Output>
+      <Time>2013-12-13T19:07:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\options.png</Source>
+      <Name>UI\options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\options.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\hudParanneltu.png</Source>
+      <Name>UI\hudParanneltu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\hudParanneltu.xnb</Output>
+      <Time>2013-12-17T18:42:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Plus.png</Source>
+      <Name>Buttons\Plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\Plus.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pxl.png</Source>
+      <Name>pxl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\pxl.xnb</Output>
+      <Time>2013-12-17T18:07:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Boss 1\Boss1_Death.wav</Source>
+      <Name>SFX\Boss 1\Boss1_Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Death.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Boss 1\Boss1_Summon.wav</Source>
+      <Name>SFX\Boss 1\Boss1_Summon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Summon.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Boss 1\Boss1_Victory.wav</Source>
+      <Name>SFX\Boss 1\Boss1_Victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Victory.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Goblin\Goblin_Death_1.wav</Source>
+      <Name>SFX\Goblin\Goblin_Death_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_1.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Goblin\Goblin_Death_2.wav</Source>
+      <Name>SFX\Goblin\Goblin_Death_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_2.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Goblin\Goblin_Death_3.wav</Source>
+      <Name>SFX\Goblin\Goblin_Death_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_3.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Goblin\Goblin_Death_4.wav</Source>
+      <Name>SFX\Goblin\Goblin_Death_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_4.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Goblin\Goblin_Death_5.wav</Source>
+      <Name>SFX\Goblin\Goblin_Death_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_5.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Summon_1.wav</Source>
+      <Name>SFX\Knight\Knight_Summon_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_1.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Summon_2.wav</Source>
+      <Name>SFX\Knight\Knight_Summon_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_2.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Summon_3.wav</Source>
+      <Name>SFX\Knight\Knight_Summon_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_3.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Summon_4.wav</Source>
+      <Name>SFX\Knight\Knight_Summon_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_4.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Summon_5.wav</Source>
+      <Name>SFX\Knight\Knight_Summon_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_5.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Upgrade_1.wav</Source>
+      <Name>SFX\Knight\Knight_Upgrade_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_1.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Upgrade_2.wav</Source>
+      <Name>SFX\Knight\Knight_Upgrade_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_2.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Knight\Knight_Upgrade_3.wav</Source>
+      <Name>SFX\Knight\Knight_Upgrade_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_3.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Orc\Orc_Death_1.wav</Source>
+      <Name>SFX\Orc\Orc_Death_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_1.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Orc\Orc_Death_2.wav</Source>
+      <Name>SFX\Orc\Orc_Death_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_2.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Orc\Orc_Death_3.wav</Source>
+      <Name>SFX\Orc\Orc_Death_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_3.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Orc\Orc_Death_4.wav</Source>
+      <Name>SFX\Orc\Orc_Death_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_4.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Orc\Orc_Death_5.wav</Source>
+      <Name>SFX\Orc\Orc_Death_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_5.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Summon_1.wav</Source>
+      <Name>SFX\Wizard\Wizard_Summon_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_1.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Summon_2.wav</Source>
+      <Name>SFX\Wizard\Wizard_Summon_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_2.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Summon_3.wav</Source>
+      <Name>SFX\Wizard\Wizard_Summon_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_3.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Summon_4.wav</Source>
+      <Name>SFX\Wizard\Wizard_Summon_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_4.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Summon_5.wav</Source>
+      <Name>SFX\Wizard\Wizard_Summon_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_5.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Upgrade_1.wav</Source>
+      <Name>SFX\Wizard\Wizard_Upgrade_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_1.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Upgrade_2.wav</Source>
+      <Name>SFX\Wizard\Wizard_Upgrade_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_2.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Wizard\Wizard_Upgrade_3.wav</Source>
+      <Name>SFX\Wizard\Wizard_Upgrade_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_3.xnb</Output>
+      <Time>2013-12-13T19:07:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\01 - Toygun.wav</Source>
+      <Name>SFX\01 - Toygun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\01 - Toygun.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Summon_1.wav</Source>
+      <Name>SFX\Archer\Ranger_Summon_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_1.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Summon_2.wav</Source>
+      <Name>SFX\Archer\Ranger_Summon_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_2.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Summon_3.wav</Source>
+      <Name>SFX\Archer\Ranger_Summon_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_3.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Summon_4.wav</Source>
+      <Name>SFX\Archer\Ranger_Summon_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_4.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Summon_5.wav</Source>
+      <Name>SFX\Archer\Ranger_Summon_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_5.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Upgrade_1.wav</Source>
+      <Name>SFX\Archer\Ranger_Upgrade_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_1.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Upgrade_2.wav</Source>
+      <Name>SFX\Archer\Ranger_Upgrade_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_2.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Archer\Ranger_Upgrade_3.wav</Source>
+      <Name>SFX\Archer\Ranger_Upgrade_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_3.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch10.spritefont</Source>
+      <Name>Fonts\BuxtonSketch10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch10.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch14.spritefont</Source>
+      <Name>Fonts\BuxtonSketch14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch14.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch24.spritefont</Source>
+      <Name>Fonts\BuxtonSketch24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch24.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch32.spritefont</Source>
+      <Name>Fonts\BuxtonSketch32</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch32.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch48.spritefont</Source>
+      <Name>Fonts\BuxtonSketch48</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch48.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch96.spritefont</Source>
+      <Name>Fonts\BuxtonSketch96</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch96.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch40.spritefont</Source>
+      <Name>Fonts\BuxtonSketch40</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch40.xnb</Output>
+      <Time>2013-12-13T19:07:28+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{40C3F151-A207-4DB5-BE05-6126191B3452}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefenceContent\</RootDirectory>
+      <LoggerRootDirectory>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\</LoggerRootDirectory>
+      <IntermediateDirectory>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-12T12:24:42.211614+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,99 @@
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\01 - Strange Numbers.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\02 - Mischief.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\04 - Gone.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\03 - H.A.M.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\Cursor.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\gridCursor.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\mapBeta.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\UberHud.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\velhoLvl1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\rangeIndicator.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\lightning.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level 1 mockup.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\fireBall.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Maps\level2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\velhofinal.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\goblinmockup.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\BackButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\ExitButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\MenuButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\Minus.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\OptionsButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\PlayButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\SoundOff.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\SoundOn.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\MasterVolume.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\MusicVolume.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFXVolume.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Slider.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\Particle_animation3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\orc.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\archerfinal.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Towers\knightfinal.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\UpgradeButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Enemies\theBoss.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\FX\Particle_animation.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\menu.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\hud.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\ResumeButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\NextWaveButton.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\options.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\UI\hudParanneltu.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Buttons\Plus.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\pxl.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Death.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Summon.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Boss 1\Boss1_Victory.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_4.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Goblin\Goblin_Death_5.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_4.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Summon_5.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Knight\Knight_Upgrade_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_4.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Orc\Orc_Death_5.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_4.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Summon_5.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Wizard\Wizard_Upgrade_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\01 - Toygun.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_4.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Summon_5.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_1.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_2.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\SFX\Archer\Ranger_Upgrade_3.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch10.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch14.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch24.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch32.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch48.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch96.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Fonts\BuxtonSketch40.xnb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\01 - Strange Numbers.wma
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\02 - Mischief.wma
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\04 - Gone.wma
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\Content\Music\03 - H.A.M.wma
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\TowerDefence.exe
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\bin\x86\Release\TowerDefence.pdb
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\obj\x86\Release\TowerDefence.exe
+I:\Esiteltävät työt\TowerDefence_Jussi Laaksonen08.0\TowerDefence\TowerDefence\obj\x86\Release\TowerDefence.pdb

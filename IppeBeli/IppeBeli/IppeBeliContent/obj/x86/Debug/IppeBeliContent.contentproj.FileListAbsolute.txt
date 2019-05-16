@@ -1,0 +1,9 @@
+C:\Users\Ville\Documents\Visual Studio 2010\Projects\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Game Projects\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Dig\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\IppeBeliContent.contentprojResolveAssemblyReference.cache
+I:\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\IppeBeliContent.contentprojResolveAssemblyReference.cache
+D:\Backup\Jusa\Desktop\Dig\Muistitikkunen\Esiteltävät työt\IppeBeli\IppeBeli\IppeBeliContent\obj\x86\Debug\IppeBeliContent.contentproj.CoreCompileInputs.cache

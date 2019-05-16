@@ -1,0 +1,45 @@
+MovingObjectParent
+	-Vector2 position, speed, direction, lastPosition
+	-Rectangle boundingBox
+
+	-public void Update(deltaTime)
+	-public void Draw()
+
+StillObjectParent
+	-Vector2 position
+	-Rectangle boundingBox
+
+	-public void Update(deltaTime)
+	-public void Draw()
+
+Player
+	-public void Update(deltaTime)
+	-public void Draw()
+
+Item
+	-public void Update(deltaTime)
+	-public void Draw()
+
+Collision
+	-public bool ObjectCheck()
+	-public bool Tilecheck()
+
+Tiles
+	-???
+
+Recources
+	-???
+
+SceneParent
+	-public void Update(deltaTime)
+	-public void Draw()
+
+Camera
+	-???
+
+Input
+	-public static bool isKeyDown(Keys key)
+	-public static bool isKeyUp(Keys key)
+	-public static bool isKeyPressed(Keys key)
+	-public static bool isReleased(Keys key)
+

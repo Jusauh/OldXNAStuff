@@ -1,0 +1,174 @@
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+K:\Luomistyö\Ohjelmat\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\kat13sjussil\Desktop\Labyrinth\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+I:\Ludum Dare\Labyrinth_jussi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+I:\Ludum Dare\Labyrinth_viimeisin\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisempi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\KAT13SToniM\Desktop\Labyrinth_viimeisinpi\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+C:\Users\Pyry\Desktop\Labyrinth_viimeisinpi - Ludum Dare\Labyrinth\Labyrinth\bin\x86\Debug\Content\pomo1c.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pomo1c.xnb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\kat13sjussil\Desktop\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pomo1c.xnb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+C:\Users\Jusa\Desktop\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\player.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Tile.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\henchman1b.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1c.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja1d.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pelaaja_jalat.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Light.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pyssy2.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelOneMap.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelThreeMap.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\StartScreen7.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Enemy.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Boss.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\LevelTwoMap.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\pomo1c.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Creepypasta luolajukka.xnb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Content\Creepypasta luolajukka.wma
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.exe
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\bin\x86\Debug\Labyrinth.pdb
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.exe
+F:\Esiteltävät työt\Ludum Dare - FUUSIO\Labyrinth\Labyrinth\obj\x86\Debug\Labyrinth.pdb
